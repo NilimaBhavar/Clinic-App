@@ -1,3 +1,7 @@
+node-modules/
+Clinic-Bcakend/node_modules/
+
+
 .env
 Clinic-Backend/.env 
-node-modules/ 
+
